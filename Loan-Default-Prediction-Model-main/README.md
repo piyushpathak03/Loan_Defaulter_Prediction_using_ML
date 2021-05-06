@@ -1,4 +1,3 @@
-(P.S Github sometimes takes time while loading ipynb files, so just reload a couple times if it shows you error. or you can render it using https://nbviewer.jupyter.org/. Open the link and just copy paste the link of ipynb file. It should display just fine then :) )
 
 # Loan-Default-Prediction-Model
 
@@ -57,3 +56,22 @@ Brief Description of Model Creation
 2) Performed PCA for reduction in dimensionality ( 46 to 10 ) to improve the process speed
 3) Train test split of the data into (80/20)
 4) Implemented DT, NB, RF, LR, KNN and performed hyperparameter optimization for each algorithm using GridsearchCV / RandomSearchCV
+
+
+## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
+
